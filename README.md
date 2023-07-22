@@ -1,0 +1,2 @@
+# Flooring-2.0
+This project was created to update my previous flooring project written in HTML, CSS and JS. The application now includes backend with NodeJs front-end with React, and I also used frameworks like Bootstrap, and Material UI. On the website users can ask for offers and take the offers. Behind the scenes on the backend I wrote an application that estimates the days of the flooring work, and gives a calculated price offer, based on the days, the size of the area, and based on the location of the area, and sends out the offers in emails. 
