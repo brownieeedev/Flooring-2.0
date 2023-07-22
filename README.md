@@ -3,3 +3,4 @@ This project was created to update my previous flooring project written in HTML,
 ![image](https://github.com/brownieeedev/Flooring-2.0/assets/130675477/ae283f47-34a5-45fa-b97d-67730efbc130)
 ![image](https://github.com/brownieeedev/Flooring-2.0/assets/130675477/6ca7a51c-f875-402c-9a2d-090e72e46e68)
 ![image](https://github.com/brownieeedev/Flooring-2.0/assets/130675477/27b4bf08-227b-4c08-802f-bae4619d0be7)
+![image](https://github.com/brownieeedev/Flooring-2.0/assets/130675477/28ef5c86-0e7a-43ce-92c2-45f8dbb9b3f8)
